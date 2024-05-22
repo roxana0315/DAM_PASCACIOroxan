@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EC2</string>
+    <string name="txtnombre" />
+    <string name="txtcorreo" />
+    <string name="rdbsistemas">ING SISTEMAS</string>
+    <string name="rdbambiental">Ing Ambiental</string>
+    <string name="rdbmecanic">Ing Electrica</string>
+    <string name="rdbadministracion">Administracion</string>
+    <string name="btnenviar">ENVIAR</string>
+</resources>
